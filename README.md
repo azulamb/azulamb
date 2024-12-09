@@ -1,4 +1,4 @@
-I love deno🦕.
+I love [deno](https://deno.com/)🦕.
 
 <!--
 **azulamb/azulamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
